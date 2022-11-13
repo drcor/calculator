@@ -1,4 +1,4 @@
-/*  managestr.c -- Manage strings and text
+/*  functions.c -- Calculate factorials and compare strings
 
     Author:     Diogo Correia
     Creation:   02-01-2021
